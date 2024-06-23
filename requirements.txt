@@ -1,0 +1,13 @@
+langchain-community==0.0.34
+python-dotenv==1.0.1
+langchain-pinecone==0.1.0
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-core==0.1.45
+fastapi==0.110.0
+uvicorn==0.29.0
+sentence-transformers==2.7.0
+numpy==1.24.4
+sentencepiece==0.1.99
+protobuf==4.25.3
+gunicorn
